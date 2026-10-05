@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#1A73E8;}
+</style>
+<g transform="translate(32.0000,32.0000) scale(0.75)" data-icon-pad="1"><path class="st0" d="M90.1,8.8c-3.1,0.4-4.1,2.4-11.7,10l-67.1,67c-1.5,1.5-2.2,2.7-2.5,4v157.4h157.4c1.3-0.3,2.5-1,4-2.5  l74.5-74.5c1.5-1.5,2.2-2.7,2.5-4V8.8H90.1z M189.5,185.6c-28.7-1.1-63.7,4.1-88.3-5.7c-43.8-17.6-50.1-96,0.2-118.5  c21.9-9.8,60.7-4.6,87.7-5.7l0.3,33.9l-61.5-0.1c-17.6,0.6-29.1,13.6-28.6,31.8s11.4,30.1,29.6,30.8c19.7,0.7,41.1,0.1,61,0  L189.5,185.6z" />
+</g></svg>

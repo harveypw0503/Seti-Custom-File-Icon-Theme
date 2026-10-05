@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="_x32_" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009F9A;}
+</style>
+<g transform="translate(64.0000,64.0000) scale(0.75)" data-icon-pad="1"><g>
+	<path class="st0" d="M0,47.7v416.6h512V47.7H0z M50.9,413.4V98.6h410.2v314.8L50.9,413.4L50.9,413.4z" />
+	<rect x="238.5" y="159" class="st0" width="178.1" height="35" />
+	<rect x="238.5" y="238.5" class="st0" width="178.1" height="35" />
+	<rect x="95.4" y="318" class="st0" width="321.2" height="35" />
+	<path class="st0" d="M152.6,204.5c19.1,0,34.7-15.5,34.7-34.7s-15.5-34.7-34.7-34.7S118,150.7,118,169.8S133.5,204.5,152.6,204.5z" />
+	<path class="st0" d="M191.3,247.9c0-13.2-9.3-29.1-21.1-36.2l-0.4-0.2h-34.3l-0.4,0.2c-11.8,7.1-21.1,23-21.1,36.2v25.6h77.3   L191.3,247.9L191.3,247.9z" />
+</g>
+</g></svg>

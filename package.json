@@ -1,0 +1,23 @@
+{
+  "name": "harveypw0503-seti-custom-file-icon-theme",
+  "displayName": "harveypw0503+Seti Custom File Icon Theme",
+  "description": "The built-in Seti icon theme, extended to cover file types Seti doesn't have icons for.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "publisher": "harveypw0503",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "harveypw0503-seti-custom-file-icon-theme",
+        "label": "harveypw0503+Seti Custom File Icon Theme",
+        "path": "./icons/my-file-icons-theme.json"
+      }
+    ]
+  }
+}
